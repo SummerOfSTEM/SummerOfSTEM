@@ -1,6 +1,6 @@
 body, html
 {
-    background-color: #d18e8e !important;
+    background-color: #8c7fe0 !important;
 }
 
 .intro
@@ -9,6 +9,7 @@ body, html
     padding-top: 13%;
     padding-bottom: 13%;
     margin-bottom: 50px;
+    background-color: #8c7fe0
 }
 
 .intro h1
@@ -21,7 +22,7 @@ body, html
 {
     background-color: #f7f7f7;
     padding: 10px;
-    color: #8c7fe0;
+    color: #333333;
     display: inline-block;
     font-size: 1rem;
 }
