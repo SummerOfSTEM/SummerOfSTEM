@@ -19,10 +19,9 @@ body, html
 
 .intro h5
 {
-    text-transform: uppercase;
-    background-color: #8c7fe0;
+    background-color: #f7f7f7;
     padding: 10px;
-    color: #343434;
+    color: #8c7fe0;
     display: inline-block;
     font-size: 1rem;
 }
