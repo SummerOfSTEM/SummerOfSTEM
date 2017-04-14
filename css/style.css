@@ -1,1 +1,27 @@
+body, html
+{
+    background-color: #d84747 !important;
+}
 
+.intro
+{
+    text-align: center;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    margin-bottom: 50px;
+}
+
+.intro h1
+{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.intro h5
+{
+    background-color: #f4f4f4;
+    padding: 10px;
+    color: #3d3c3c;
+    display: inline-block;
+    font-size: 1rem;
+}
